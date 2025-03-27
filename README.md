@@ -88,20 +88,6 @@ npm run dev
 4. **Push the branch** (`git push origin feature-branch`)  
 5. **Open a Pull Request**  
 
-🔍 See [CONTRIBUTING.md](CONTRIBUTING.md) for more details.
-
----
-
-## 🐛 Issues
-If you find any bugs or issues, report them [here](https://github.com/AmarSingh-11/Avatar/issues).  
-
----
-
-## 📜 License
-📄 This project is licensed under the **MIT License**.  
-
----
-
 💙 **Made with love by [AmarSingh-11](https://github.com/AmarSingh-11/)**  
 🌟 _Don't forget to give a star if you like this project!_ ⭐  
 
