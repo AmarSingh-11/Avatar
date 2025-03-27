@@ -59,3 +59,30 @@ npm install
 
 # 4️⃣ Start the development server
 npm start
+
+# Run the frontend
+cd frontend
+npm start
+
+# Run the backend
+cd backend
+npm run dev
+🤝 Contributing
+We welcome contributions! Follow these steps:
+
+Fork the repository
+
+Create a branch (git checkout -b feature-branch)
+
+Commit your changes (git commit -m "Added a new feature")
+
+Push the branch (git push origin feature-branch)
+
+Open a Pull Request
+
+🔍 See CONTRIBUTING.md for more details.
+
+💙 Made with love by AmarSingh-11
+🌟 Don't forget to give a star if you like this project! ⭐
+
+
