@@ -1,10 +1,12 @@
 
+---
+
 ### README.md
 ```markdown
-# Avatar
+# Avatar2
 
 ## Overview
-Avatar is a project designed to [briefly describe your project’s purpose, e.g., "enhance user interactions through AI-driven avatars"]. This repository contains both the frontend and backend components required for the application.
+Avatar2 is a project designed to [briefly describe your project’s purpose, e.g., "enhance user interactions through AI-driven avatars"]. This repository contains both the frontend and backend components required for the application.
 
 ## Features
 - [Feature 1: e.g., "AI-powered avatar generation"]
